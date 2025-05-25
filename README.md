@@ -12,7 +12,7 @@ Atualmente estou focado em aprender mais sobre:
 
 📧 E-mail: [paulohenriquetav@gmail.com](mailto:paulohenriquetav@gmail.com)
 
-## Ferramenta conhecidas/utilizadas🔧
+## 🔧Linguagens e ferramentas conhecidas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=80 width=80/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=80 width=80 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"  height=80 width=80/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height=80 width=80/>
 
