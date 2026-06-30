@@ -1,28 +1,93 @@
-## 👋Olá, bem-vindo ao meu GitHub!
+👋 Olá! Eu sou o Paulo Henrique
 
-Me chamo **Paulo Henrique** e sou apaixonado por **Análise de Dados** e **Tecnologia**.  
-Estou sempre buscando desenvolver minhas habilidades e aplicá-las em projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonado por Dados, Business Intelligence e Tecnologia.
 
-Atualmente estou focado em aprender mais sobre:
-- 📊 Análise de dados  
-- 📈 Visualização de dados  
-- 📁 Excel para análise de dados  
-- 🗂️ Modelagem de dados  
-- 🛢️ SQL para consultas e manipulação de dados  
-- 📊 Power BI para criação de dashboards interativos  
+Busco transformar dados em informações úteis por meio de projetos práticos utilizando Python, SQL, Databricks e ferramentas de BI. Atualmente venho desenvolvendo soluções envolvendo pipelines de dados, arquitetura Medalhão, Databricks Apps e dashboards para apoiar a tomada de decisão.
 
+🚀 Estou me aprofundando em:
+
+🏗️ Engenharia de Dados com Databricks
+
+
+⚙️ Databricks Apps
+
+
+🔄 ETL/ELT e orquestração de pipelines
+
+
+🥉🥈🥇 Arquitetura Medalhão (Bronze, Silver e Gold)
+
+
+📚 Unity Catalog e governança de dados
+
+
+📊 Business Intelligence e modelagem de dados
+
+
+🗄️ SQL para análise e transformação de dados
+
+
+🐍 Python para análise e engenharia de dados
+
+
+📈 Power BI e criação de dashboards
+
+
+📋 Excel aplicado à análise de dados
+
+
+## 🚀 Projetos em destaque
+
+📊 **BikeStore no Databricks**
+- Pipeline ETL utilizando arquitetura Medalhão
+- Unity Catalog
+- Workflows (Jobs)
+- Observabilidade
+- Databricks SQL
+
+🖥️ **Sistema de Controle de Ativos**
+- Databricks Apps
+- Streamlit
+- CRUD
+- Auditoria de alterações
+- SQL Warehouse
+
+📈 **Dashboards em Power BI**
+- Modelagem de dados
+- Power Query
+- KPIs e visualizações interativas
 
 ## 📫 Como me contatar:
 
 📧 E-mail: [paulohenriquetav@gmail.com](mailto:paulohenriquetav@gmail.com)
 
-## 🔧 Linguagens e ferramentas conhecidas
+**Linguagens**
+- Python
+- SQL
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=80 width=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=80 width=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"  height=80 width=80/> 
+**Data & BI**
+- Databricks
+- Databricks SQL
+- Databricks Apps
+- Power BI
+- Power Query
+- Excel
+- Looker
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height=80 width=80/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=80 width=80/> <img src = "https://github.com/user-attachments/assets/dd2f6238-2a0d-4c7a-a60e-4198b6e84bec" height=80 width=80>
+**Bibliotecas**
+- Pandas
+- NumPy
+- Matplotlib
 
+**Conceitos**
+- ETL/ELT
+- Arquitetura Medalhão
+- Unity Catalog
+- Workflows (Jobs)
+- Observabilidade de Pipelines
+- Governança de Dados
+- Business Intelligence
+  
 ### 🌱 Sempre me aprimorando!
 
-Estou constantemente aprendendo e em busca de aplicar o conhecimento em projetos reais.  
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
+Estou sempre buscando evoluir minhas habilidades por meio de estudos e projetos práticos, aplicando boas práticas de engenharia e análise de dados. Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de Dados e Business Intelligence.
