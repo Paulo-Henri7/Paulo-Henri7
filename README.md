@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Paulo Henrique
+# 👋 Olá! Eu sou o Paulo Henrique
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonado por Dados, Business Intelligence e Tecnologia.
 
